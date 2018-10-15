@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="6520cc4a-79ee-464a-85e1-65c19326e3c5" name="Default Changelist" comment="呵呵">
       <change beforePath="$PROJECT_DIR$/shatuzi.py" beforeDir="false" afterPath="$PROJECT_DIR$/shatuzi.py" afterDir="false" />
+=======
+    <list default="true" id="6374eb12-fc4d-41d5-9f22-567506375898" name="Default" comment="测试ytz">
+      <change beforePath="$PROJECT_DIR$/.idea/first-origion.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/first-origion.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,6 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
+<<<<<<< Updated upstream
     <session id="-338474942">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
@@ -18,33 +26,59 @@
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.42" value="1" />
           <entry key="project.opened" value="2" />
+=======
+    <session id="-725997004">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+>>>>>>> Stashed changes
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+<<<<<<< Updated upstream
           <entry key="py" value="5" />
+=======
+          <entry key="py" value="1" />
+>>>>>>> Stashed changes
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+<<<<<<< Updated upstream
           <entry key="Python" value="5" />
+=======
+          <entry key="Python" value="1" />
+>>>>>>> Stashed changes
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+<<<<<<< Updated upstream
           <entry key="py" value="56" />
           <entry key="txt" value="10" />
+=======
+          <entry key="py" value="3" />
+          <entry key="txt" value="4" />
+>>>>>>> Stashed changes
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+<<<<<<< Updated upstream
           <entry key="PLAIN_TEXT" value="10" />
           <entry key="Python" value="56" />
+=======
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="3" />
+>>>>>>> Stashed changes
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
+<<<<<<< Updated upstream
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Hello.py">
@@ -107,6 +141,14 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="12" selection-start-column="12" selection-end-column="12" />
+=======
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test01.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
@@ -126,8 +168,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< Updated upstream
         <option value="$PROJECT_DIR$/baibai.py" />
         <option value="$PROJECT_DIR$/shatuzi.py" />
+=======
+        <option value="$PROJECT_DIR$/Hello.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/test01.py" />
+>>>>>>> Stashed changes
       </list>
     </option>
   </component>
@@ -137,11 +185,19 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+<<<<<<< Updated upstream
   <component name="ProjectFrameBounds">
     <option name="x" value="284" />
     <option name="y" value="29" />
     <option name="width" value="1345" />
     <option name="height" value="1016" />
+=======
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="208" />
+    <option name="y" value="150" />
+    <option name="width" value="1059" />
+    <option name="height" value="644" />
+>>>>>>> Stashed changes
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -168,7 +224,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -214,14 +270,30 @@
       <option name="project" value="LOCAL" />
       <updated>1539595071627</updated>
     </task>
+<<<<<<< Updated upstream
+=======
+    <task id="LOCAL-00003" summary="zzzz">
+      <created>1539594522665</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1539594522665</updated>
+    </task>
+>>>>>>> Stashed changes
     <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< Updated upstream
     <frame x="284" y="29" width="1345" height="1016" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14581734" />
+=======
+    <frame x="65" y="-4" width="1265" height="922" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18560916" />
+>>>>>>> Stashed changes
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -230,6 +302,7 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+<<<<<<< Updated upstream
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.67525196" />
@@ -237,13 +310,26 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32922733" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32934928" />
+=======
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32972974" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49782923" weight="0.6846058" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50217074" side_tool="true" weight="0.3280899" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.6772793" weight="0.32916147" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4992764" weight="0.3279099" />
+>>>>>>> Stashed changes
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
+<<<<<<< Updated upstream
       <window_info anchor="right" id="R Graphics" order="4" />
       <window_info anchor="right" id="R Packages" order="5" />
       <window_info anchor="right" id="Database" order="6" />
+=======
+      <window_info anchor="right" id="Database" order="4" />
+>>>>>>> Stashed changes
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,6 +365,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+<<<<<<< Updated upstream
     <MESSAGE value="哈哈" />
     <MESSAGE value="呵呵" />
     <option name="LAST_COMMIT_MESSAGE" value="呵呵" />
@@ -295,6 +382,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+=======
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="测试ytz" />
+    <MESSAGE value="zzzz" />
+    <option name="LAST_COMMIT_MESSAGE" value="zzzz" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/helloGit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
@@ -304,12 +403,17 @@
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
+<<<<<<< Updated upstream
           <caret column="12" selection-start-column="12" selection-end-column="12" />
+=======
+          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="-66" />
       </provider>
     </entry>
@@ -320,6 +424,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+=======
+        <state relative-caret-position="120">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
