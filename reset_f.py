@@ -1,1 +1,3 @@
 print('reset')
+
+print('haha')
