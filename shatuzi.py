@@ -13,3 +13,5 @@ print("大钩子")
 hello = "ooooo"
 
 
+print("我家二傻子")
+
