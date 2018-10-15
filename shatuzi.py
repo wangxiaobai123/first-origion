@@ -6,6 +6,6 @@ print('小了白了兔')
 
 
 
-hello = "ooooo
+hello = "ooooo"
 
 
