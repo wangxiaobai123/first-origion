@@ -17,6 +17,6 @@ x = 14
 >>>>>>> 22ed3be1043517bd1e7c8074671ca2bfd484a696
 
 
-hello = "python"
+hello = "java"
 
 
